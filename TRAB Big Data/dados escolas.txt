@@ -1,0 +1,6 @@
+Computadores [2024]: 6,51 | Total Computador: 2488 | Total Escolas: 382 
+Computadores [2023]: 6,32 | Total Computador: 2322 | Total Escolas: 367
+Computadores [2022]: 5,34 | Total Computador: 2172 | Total Escolas: 406
+Computadores [2021]: 7,01 | Total Computador: 2644 | Total Escolas: 377 
+Computadores [2020]: 6,58 | Total Computador: 2503 | Total Escolas: 380
+Computadores [2019]: 6,65 | Total Computador: 2484 | Total Escolas: 373
